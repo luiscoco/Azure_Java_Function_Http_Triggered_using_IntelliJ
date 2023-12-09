@@ -103,3 +103,16 @@ We deploy the application clicking on the "Deploy to Azure..." link:
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/16bd645a-b47e-402c-920c-cf239be5c360)
 
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/4676085e-3aae-4f70-88c7-4960699d6329)
+
+If you previously created a Function in Azure Portal then select it, otherwise we create a new Function in Azure portal to host our application 
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/97cd3108-825c-471c-8f18-242b23854a41)
+
+When the deployment is finished you can Login in Azure Portal and inside the Azure Functions list we select our new Function
+
+
+
+
+
+We login in Azure Portal and 
