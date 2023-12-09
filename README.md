@@ -81,7 +81,8 @@ Run the application:
 
 See the application output:
 
-![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/9d2f18ad-ae42-4e16-b258-3c594504d540)
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/37a90580-9fcc-4df6-99bb-4cf902856654)
+
 
 
 
