@@ -83,7 +83,16 @@ See the application output:
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/80e4c1e1-26e0-44d6-8789-96e1e6c1b499)
 
+We input the Azure Function endpoint URL in the internet web browser:
 
+http://localhost:54658/api/HttpTriggerJava
 
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/f9543a97-507f-4427-9de4-f9f895040379)
 
+Also we can set the "name" parameter as a querystring in the above URL:
 
+http://localhost:54658/api/HttpTriggerJava?name="my name is John"
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/90ced6d9-0dd2-4159-841e-c5fa4e845706)
+
+We can also deploy the Azure Function in 
