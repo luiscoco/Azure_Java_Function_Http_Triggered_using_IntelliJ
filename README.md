@@ -111,8 +111,9 @@ If you previously created a Function in Azure Portal then select it, otherwise w
 
 When the deployment is finished you can Login in Azure Portal and inside the Azure Functions list we select our new Function
 
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/5bfac552-5864-463c-b268-6e5f22cb2fab)
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/a832260c-8c54-44ee-9f10-eaa61a57c885)
 
 
 
-
-We login in Azure Portal and 
