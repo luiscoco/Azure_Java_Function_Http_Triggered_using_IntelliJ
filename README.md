@@ -115,5 +115,13 @@ When the deployment is finished you can Login in Azure Portal and inside the Azu
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/a832260c-8c54-44ee-9f10-eaa61a57c885)
 
+We click on the button "Get Function Url" to copy the Azure Function URL: 
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/28bd97cb-4dcc-4390-bd95-7d2b2c8a4954)
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/cc5c900d-eef1-4f27-815f-9c70cdefbb5b)
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/92f970ae-06c3-4df9-9b30-1a049e9a10b7)
+
 
 
