@@ -24,6 +24,16 @@ Select project manager tool "Maven", group name "com.example", artifact "azure-f
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/171f1b99-35fb-45fc-a4c2-f129afa7f1a7)
 
+Also set the project name "azure-function-examples" and project location "C:\\azure-function-examples":
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/e0432c12-b6f4-45f5-95f1-5359255c2842)
+
+To avoid any problem with the Antivirus configure Microsoft Defender automatically:
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/5623fd13-7c09-4fb9-8fc9-eadd41ab8a93)
+
+
+
 
 
 
