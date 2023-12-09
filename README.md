@@ -95,4 +95,11 @@ http://localhost:54658/api/HttpTriggerJava?name="my name is John"
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/90ced6d9-0dd2-4159-841e-c5fa4e845706)
 
-We can also deploy the Azure Function in 
+Before deploying the Azure Java Function in the Azure Portal we can the deployment region "westeurope" in the pom.xml file:
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/1df71225-744d-41ca-9793-324d0ba02748)
+
+We deploy the application clicking on the "Deploy to Azure..." link:
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/16bd645a-b47e-402c-920c-cf239be5c360)
+
