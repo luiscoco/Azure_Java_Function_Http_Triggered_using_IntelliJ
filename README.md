@@ -16,6 +16,14 @@ Create a new project
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/b6052ef5-5d00-42a9-aa07-4850902a77e6)
 
-Select Azure Functions, Function trigger HttpTrigger, project SDK Oracle openJDK version 20.0.1: 
+Select "Azure Functions", Function trigger "HttpTrigger", project SDK "Oracle openJDK version 20.0.1": 
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/220f1e2f-3784-4069-8ecd-3f8bd69a41da)
+
+Select project manager tool "Maven", group name "com.example", artifact "azure-function-examples", version "1.0.0-SNAPSHOT", package name "org.example.functions":
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/171f1b99-35fb-45fc-a4c2-f129afa7f1a7)
+
+
+
+
