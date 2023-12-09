@@ -123,5 +123,8 @@ We click on the button "Get Function Url" to copy the Azure Function URL:
 
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/92f970ae-06c3-4df9-9b30-1a049e9a10b7)
 
+We can also set the "name" parameter as a querystring in the Function URL endpoint:
 
+https://app-azure-function-examples-231209092110.azurewebsites.net/api/HttpTriggerJava?code=3h0rA7jS-NQZyUcORLRVDWJ2MmTFuOPGKUd0rxHkArLTAzFuJ5x_QA==&name=%22my%20name%20is%20Peter%22
 
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/8459074b-d6b4-4f5f-acbc-70669f04373a)
