@@ -1,0 +1,2 @@
+# Azure_Java_Function_Http_Triggered_using_IntelliJ
+Azure Java Function Http Triggered using IntelliJ
