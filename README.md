@@ -74,13 +74,9 @@ public class HttpTriggerJava {
 ```
 
 Run the application: 
-
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/bd78ff90-3697-49a7-b7d9-c07f4a3725c4)
-
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/a87430d1-9bb7-4c87-84b1-d44488ce5d0e)
-
 See the application output:
-
 ![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/37a90580-9fcc-4df6-99bb-4cf902856654)
 
 
