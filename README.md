@@ -74,10 +74,15 @@ public class HttpTriggerJava {
 ```
 
 Run the application: 
-![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/bd78ff90-3697-49a7-b7d9-c07f4a3725c4)
-![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/a87430d1-9bb7-4c87-84b1-d44488ce5d0e)
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/66e30920-41ca-45b4-b0b4-d901f5947db1)
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/e32ddd5e-9f61-4f3b-8363-5dc38e308b44)
+
 See the application output:
-![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/37a90580-9fcc-4df6-99bb-4cf902856654)
+
+![image](https://github.com/luiscoco/Azure_Java_Function_Http_Triggered_using_IntelliJ/assets/32194879/80e4c1e1-26e0-44d6-8789-96e1e6c1b499)
+
 
 
 
